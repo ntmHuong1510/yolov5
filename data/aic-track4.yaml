@@ -5,7 +5,7 @@ val: dataset/Auto-retail-syndata-release/syn_image_train # val images (relative 
 test: # test images (optional)
 
 # Classes
-nc: 116 # number of classes
+nc: 115 # number of classes
 names: [
     "Advil Liquid Gel",
     "Advil Tablets",
