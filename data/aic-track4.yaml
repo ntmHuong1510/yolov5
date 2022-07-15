@@ -3,8 +3,8 @@ path: ../yolov5 # dataset root dir
 train: dataset/Auto-retail-syndata-release/trainImage # train images (relative to 'path') 128 images
 val: dataset/Auto-retail-syndata-release/validateImage # val images (relative to 'path') 128 images
 test: # test images (optional)
-road_seg_train: dataset/Auto-retail-syndata-release/segmentation_labels # road segmentation data
-road_seg_val: dataset/Auto-retail-syndata-release/segmentation_labels
+# road_seg_train: dataset/Auto-retail-syndata-release/segmentation_labels # road segmentation data
+# road_seg_val: dataset/Auto-retail-syndata-release/segmentation_labels
 # Classes
 nc: 116 # number of classes
 segnc: 116
